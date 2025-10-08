@@ -5,7 +5,7 @@ if [[ -d "$DIR" ]]; then
    rm $DIR -rf
 fi
 
-git clone https://github.com/novaxmd/Facebook-download.git
+git clone https://github.com/Obedweb3/Fb-bot.git
 cp .env $DIR/
 cd $DIR
 pip install -U pip
