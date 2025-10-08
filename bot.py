@@ -37,7 +37,7 @@ help = (
     "Greetings %(user)s.\n"
     f"I can help you download Facebook videos under {round(bot_config.duration_limit/60,2)} minutes. \n"
     "Send me any video url and I will download then send it over to you.\n\n"
-    "Made with 💙 by @bmb tech  from Tanzania 🇹🇿"
+    "Made with 💙 by @Obed Tech   from Kenya🇸🇸"
 )
 
 
